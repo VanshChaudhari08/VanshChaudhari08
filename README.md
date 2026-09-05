@@ -1,30 +1,311 @@
-<h1 align="center">Hi 👋, I'm Vansh Chaudhari</h1>
-<h3 align="center">A Passionate Full Stack Developer From India</h3>
+````markdown
+<!-- ===================== HERO ===================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshchaudhari08&label=Profile%20views&color=0e75b6&style=flat" alt="vanshchaudhari08" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshchaudhari08" alt="vanshchaudhari08" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Vansh%20Chaudhari&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MCA%20Student%20%7C%20Problem%20Solver&descAlignY=60&animation=fadeIn" width="100%"/>
 
-- 🔭 I’m currently working on [Salon](https://github.com/VanshChaudhari08/Salon)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+clean+and+scalable+applications;Full+Stack+Developer;Python+%7C+Java+%7C+JavaScript;Always+learning+something+new;Turning+ideas+into+working+software" />
 
-- 👯 I’m looking to collaborate on [Task Manager App](https://github.com/VanshChaudhari08/task-manager-app)
+<br/>
 
-- 🤝 I’m looking for help with [Task Manager App](https://github.com/VanshChaudhari08/task-manager-app)
+<img src="https://komarev.com/ghpvc/?username=VanshUzumaki08&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/VanshUzumaki08?style=for-the-badge&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/VanshUzumaki08?style=for-the-badge&label=STARS" />
 
-- 💬 Ask me about **Full Stack Dev**
+</div>
 
-- 📫 How to reach me **vansh.chaudhari26@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/vansh_d_uzumaki08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vansh_d_uzumaki08" height="30" width="40" /></a>
+<!-- ===================== ABOUT ===================== -->
+
+## 👨‍💻 About Me
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  👋 Hi, I'm Vansh Chaudhari                                 │
+│                                                              │
+│  💻 Full Stack Developer                                    │
+│  🎓 MCA Student                                              │
+│  🚀 Interested in Software Development & Problem Solving    │
+│  🧠 Constantly learning new technologies                    │
+│  🛠️ Building practical projects that solve real problems    │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+````
+
+* 🔭 Currently working on **full-stack web applications**
+* 🌱 Currently learning **advanced backend development & system design**
+* 💡 Interested in **Web Development, APIs, Databases & Software Engineering**
+* 🧩 I enjoy turning ideas into functional applications
+* 🤝 Open to collaboration on interesting projects
+* ⚡ Fun fact: **I like experimenting with different technologies**
+
+---
+
+## 🚀 What I'm Building
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💇 Dhwani's Salon Management
+
+A management system designed to simplify salon operations.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
+
+**Focus**
+
+* Customer management
+* Service management
+* Data management
+* Responsive interface
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🍴 FlavorFiesta
+
+A restaurant management platform built with Django.
+
+**Tech Stack**
+
+`Python` `Django` `JavaScript` `Database`
+
+**Focus**
+
+* Restaurant management
+* Backend development
+* Database integration
+* User-friendly interface
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 Campus
+
+University smart-services platform designed to bring useful campus functionality together.
+
+**Tech Stack**
+
+`Django` `JavaScript` `Bootstrap` `PostgreSQL`
+
+**Focus**
+
+* University services
+* Backend architecture
+* Database management
+* Web application development
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📋 Task Manager
+
+A collaborative project focused on task organization and productivity.
+
+**Focus**
+
+* Task management
+* CRUD operations
+* Clean UI
+* Team collaboration
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧰 Tech Stack
+
+### 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,php" />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### 🌐 Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshchaudhari08&show_icons=true&locale=en&layout=compact" alt="vanshchaudhari08" /></p>
+<p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshchaudhari08&show_icons=true&locale=en" alt="vanshchaudhari08" /></p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshchaudhari08&" alt="vanshchaudhari08" /></p>
+</p>
+
+### ⚙️ Backend & Frameworks
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=django,spring,nodejs,php" />
+
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" />
+
+</p>
+
+### 🛠️ Tools & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
+
+</p>
+
+### 📊 Data & Computer Vision
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,opencv" />
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=VanshUzumaki08&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshUzumaki08&layout=compact&hide_border=true&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=VanshUzumaki08&hide_border=true" width="70%" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VanshUzumaki08&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshUzumaki08&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/VanshUzumaki08/VanshUzumaki08/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</p>
+
+---
+
+# 🧠 Developer Mindset
+
+```text
+       IDEA
+        │
+        ▼
+   ┌───────────┐
+   │  RESEARCH │
+   └─────┬─────┘
+         │
+         ▼
+   ┌───────────┐
+   │  BUILD    │
+   └─────┬─────┘
+         │
+         ▼
+   ┌───────────┐
+   │   TEST    │
+   └─────┬─────┘
+         │
+         ▼
+   ┌───────────┐
+   │  IMPROVE  │
+   └─────┬─────┘
+         │
+         ▼
+      REPEAT 🚀
+```
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:vansh.chaudhari26@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/vansh_d_uzumaki08">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/VanshUzumaki08">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Open To
+
+<p align="center">
+
+💻 Full Stack Development
+  •  
+🐍 Python Development
+  •  
+☕ Java Development
+  •  
+🤝 Open Source
+  •  
+🚀 Collaboration
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ If you find my projects interesting, consider giving them a star!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%"/>
+
+</div>
+```
